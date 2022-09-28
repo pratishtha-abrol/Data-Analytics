@@ -1,0 +1,296 @@
+* 1988 female * * * * * * * 264
+* 1988 female 15-24 years * * * * * * 12
+* 1988 female 15-24 years 0 * * * * * 6
+* 1988 female 35-54 years * * * * * * 6
+* 1988 female 35-54 years 0 * * * * * 12
+* 1988 female 75+ years * * * * * * 6
+* 1988 female 75+ years 1 * * * * * 6
+* 1988 female 75+ years 0 * * * * * 12
+* 1988 female 25-34 years * * * * * * 6
+* 1988 female 25-34 years 0 * * * * * 6
+* 1988 female 55-74 years * * * * * * 12
+* 1988 female 55-74 years 1 * * * * * 6
+* 1988 female 55-74 years 0 * * * * * 6
+* 1988 female 5-14 years * * * * * * 12
+* 1988 female 5-14 years 1 * * * * * 6
+* 1988 female 5-14 years 4 * * * * * 6
+* 1988 female 5-14 years 0 * * * * * 12
+* 1988 female 5-14 years 2 * * * * * 6
+* 1989 * * * * * * * * 6
+* 1989 male * * * * * * * 12
+* 1989 male 15-24 years * * * * * * 6
+* 1989 male 35-54 years * * * * * * 6
+* 1989 male 75+ years * * * * * * 12
+* 1989 male 75+ years 0 * * * * * 6
+* 1989 male 75+ years 2 * * * * * 6
+* 1989 male 25-34 years * * * * * * 12
+* 1989 male 55-74 years * * * * * * 6
+* 1989 male 5-14 years * * * * * * 6
+* 1989 male 5-14 years 1 * * * * * 12
+* 1989 male 5-14 years 0 * * * * * 6
+* 1989 male 5-14 years 2 * * * * * 6
+* 1989 female * * * * * * * 12
+* 1989 female 15-24 years * * * * * * 6
+* 1989 female 15-24 years 0 * * * * * 6
+* 1989 female 35-54 years * * * * * * 12
+* 1989 female 35-54 years 0 * * * * * 6
+* 1989 female 75+ years * * * * * * 6
+* 1989 female 75+ years 0 * * * * * 12
+* 1989 female 25-34 years * * * * * * 6
+* 1989 female 55-74 years * * * * * * 6
+* 1989 female 55-74 years 0 * * * * * 12
+* 1989 female 5-14 years * * * * * * 6
+* 1989 female 5-14 years 1 * * * * * 6
+* 1989 female 5-14 years 0 * * * * * 12
+* 1989 female 5-14 years 2 * * * * * 6
+* 1992 * * * * * * * * 6
+* 1992 male * * * * * * * 12
+* 1992 male 15-24 years * * * * * * 6
+* 1992 male 35-54 years * * * * * * 6
+* 1992 male 75+ years * * * * * * 12
+* 1992 male 75+ years 0 * * * * * 6
+* 1992 male 25-34 years * * * * * * 6
+* 1992 male 25-34 years 0 * * * * * 12
+* 1992 male 55-74 years * * * * * * 6
+* 1992 male 5-14 years * * * * * * 6
+* 1992 male 5-14 years 0 * * * * * 12
+* 1992 male 5-14 years 2 * * * * * 6
+* 1992 female * * * * * * * 6
+* 1992 female 15-24 years * * * * * * 12
+* 1992 female 15-24 years 0 * * * * * 6
+* 1992 female 35-54 years * * * * * * 6
+* 1992 female 35-54 years 0 * * * * * 12
+* 1992 female 75+ years * * * * * * 6
+* 1992 female 75+ years 0 * * * * * 6
+* 1992 female 25-34 years * * * * * * 12
+* 1992 female 25-34 years 0 * * * * * 6
+* 1992 female 55-74 years * * * * * * 6
+* 1992 female 55-74 years 1 * * * * * 324
+* 1992 female 5-14 years * * * * * * 12
+* 1992 female 5-14 years 1 * * * * * 6
+* 1992 female 5-14 years 4 * * * * * 6
+* 1992 female 5-14 years 0 * * * * * 12
+* 1992 female 5-14 years 2 * * * * * 6
+* 1992 female 5-14 years 3 * * * * * 6
+* 1993 * * * * * * * * 12
+* 1993 male * * * * * * * 6
+* 1993 male 15-24 years * * * * * * 6
+* 1993 male 35-54 years * * * * * * 12
+* 1993 male 75+ years * * * * * * 6
+* 1993 male 75+ years 0 * * * * * 6
+* 1993 male 25-34 years * * * * * * 12
+* 1993 male 55-74 years * * * * * * 6
+* 1993 male 5-14 years * * * * * * 6
+* 1993 male 5-14 years 1 * * * * * 12
+* 1993 male 5-14 years 0 * * * * * 6
+* 1993 male 5-14 years 2 * * * * * 6
+* 1993 female * * * * * * * 12
+* 1993 female 15-24 years * * * * * * 6
+* 1993 female 15-24 years 0 * * * * * 6
+* 1993 female 35-54 years * * * * * * 12
+* 1993 female 35-54 years 0 * * * * * 6
+* 1993 female 75+ years * * * * * * 6
+* 1993 female 75+ years 0 * * * * * 12
+* 1993 female 25-34 years * * * * * * 6
+* 1993 female 25-34 years 0 * * * * * 6
+* 1993 female 55-74 years * * * * * * 12
+* 1993 female 55-74 years 0 * * * * * 6
+* 1993 female 5-14 years * * * * * * 6
+* 1993 female 5-14 years 1 * * * * * 12
+* 1993 female 5-14 years 0 * * * * * 6
+* 1993 female 5-14 years 2 * * * * * 6
+* 1994 * * * * * * * * 12
+* 1994 male * * * * * * * 6
+* 1994 male 15-24 years * * * * * * 6
+* 1994 male 35-54 years * * * * * * 12
+* 1994 male 75+ years * * * * * * 6
+* 1994 male 75+ years 1 * * * * * 6
+* 1994 male 75+ years 0 * * * * * 12
+* 1994 male 25-34 years * * * * * * 6
+* 1994 male 25-34 years 0 * * * * * 6
+* 1994 male 55-74 years * * * * * * 12
+* 1994 male 55-74 years 0 * * * * * 6
+* 1994 male 5-14 years * * * * * * 6
+* 1994 male 5-14 years 1 * * * * * 12
+* 1994 male 5-14 years 0 * * * * * 6
+* 1994 male 5-14 years 2 * * * * * 6
+* 1994 male 5-14 years 3 * * * * * 12
+* 1994 female * * * * * * * 6
+* 1994 female 15-24 years * * * * * * 6
+* 1994 female 15-24 years 0 * * * * * 12
+* 1994 female 35-54 years * * * * * * 6
+* 1994 female 35-54 years 0 * * * * * 6
+* 1994 female 75+ years * * * * * * 12
+* 1994 female 75+ years 1 * * * * * 6
+* 1994 female 75+ years 0 * * * * * 6
+* 1994 female 75+ years 2 * * * * * 12
+* 1994 female 25-34 years * * * * * * 6
+* 1994 female 25-34 years 0 * * * * * 6
+* 1994 female 55-74 years * * * * * * 12
+* 1994 female 55-74 years 0 * * * * * 6
+* 1994 female 55-74 years 3 * * * * * 6
+* 1994 female 5-14 years * * * * * * 12
+* 1994 female 5-14 years 1 * * * * * 6
+* 1994 female 5-14 years 0 * * * * * 6
+* 1994 female 5-14 years 2 * * * * * 12
+* 1995 * * * * * * * * 6
+* 1995 male * * * * * * * 6
+* 1995 male 15-24 years * * * * * * 12
+* 1995 male 15-24 years 0 * * * * * 6
+* 1995 male 35-54 years * * * * * * 6
+* 1995 male 75+ years * * * * * * 12
+* 1995 male 75+ years 0 * * * * * 6
+* 1995 male 75+ years 2 * * * * * 6
+* 1995 male 25-34 years * * * * * * 12
+* 1995 male 55-74 years * * * * * * 6
+* 1995 male 55-74 years 1 * * * * * 6
+* 1995 male 55-74 years 0 * * * * * 12
+* 1995 male 5-14 years * * * * * * 6
+* 1995 male 5-14 years 1 * * * * * 6
+* 1995 male 5-14 years 4 * * * * * 372
+* 1995 male 5-14 years 0 * * * * * 12
+* 1995 male 5-14 years 3 * * * * * 6
+* 1995 male 5-14 years 5 * * * * * 6
+* 1995 female * * * * * * * 12
+* 1995 female 15-24 years * * * * * * 6
+* 1995 female 15-24 years 0 * * * * * 6
+* 1995 female 35-54 years * * * * * * 12
+* 1995 female 35-54 years 0 * * * * * 6
+* 1995 female 35-54 years 8 * * * * * 6
+* 1995 female 75+ years * * * * * * 12
+* 1995 female 75+ years 1 * * * * * 6
+* 1995 female 75+ years 0 * * * * * 6
+* 1995 female 25-34 years * * * * * * 12
+* 1995 female 25-34 years 0 * * * * * 6
+* 1995 female 55-74 years * * * * * * 6
+* 1995 female 55-74 years 0 * * * * * 12
+* 1995 female 5-14 years * * * * * * 6
+* 1995 female 5-14 years 1 * * * * * 6
+* 1995 female 5-14 years 4 * * * * * 12
+* 1995 female 5-14 years 0 * * * * * 6
+* 1995 female 5-14 years 2 * * * * * 6
+* 1996 * * * * * * * * 12
+* 1996 male * * * * * * * 6
+* 1996 male 15-24 years * * * * * * 6
+* 1996 male 35-54 years * * * * * * 12
+* 1996 male 75+ years * * * * * * 6
+* 1996 male 75+ years 1 * * * * * 6
+* 1996 male 75+ years 0 * * * * * 12
+* 1996 male 25-34 years * * * * * * 6
+* 1996 male 55-74 years * * * * * * 6
+* 1996 male 55-74 years 0 * * * * * 12
+* 1996 male 5-14 years * * * * * * 6
+* 1996 male 5-14 years 1 * * * * * 6
+* 1996 male 5-14 years 4 * * * * * 12
+* 1996 male 5-14 years 0 * * * * * 6
+* 1996 male 5-14 years 2 * * * * * 6
+* 1996 female * * * * * * * 12
+* 1996 female 15-24 years * * * * * * 6
+* 1996 female 15-24 years 0 * * * * * 6
+* 1996 female 35-54 years * * * * * * 12
+* 1996 female 35-54 years 0 * * * * * 6
+* 1996 female 75+ years * * * * * * 6
+* 1996 female 75+ years 0 * * * * * 12
+* 1996 female 75+ years 2 * * * * * 6
+* 1996 female 25-34 years * * * * * * 6
+* 1996 female 25-34 years 0 * * * * * 12
+* 1996 female 55-74 years * * * * * * 6
+* 1996 female 55-74 years 0 * * * * * 6
+* 1996 female 55-74 years 2 * * * * * 12
+* 1996 female 5-14 years * * * * * * 6
+* 1996 female 5-14 years 1 * * * * * 6
+* 1996 female 5-14 years 0 * * * * * 12
+* 1996 female 5-14 years 2 * * * * * 6
+* 1996 female 5-14 years 3 * * * * * 6
+* 1997 * * * * * * * * 12
+* 1997 male * * * * * * * 6
+* 1997 male 15-24 years * * * * * * 6
+* 1997 male 35-54 years * * * * * * 12
+* 1997 male 75+ years * * * * * * 6
+* 1997 male 75+ years 1 * * * * * 6
+* 1997 male 75+ years 0 * * * * * 12
+* 1997 male 25-34 years * * * * * * 6
+* 1997 male 55-74 years * * * * * * 6
+* 1997 male 55-74 years 0 * * * * * 12
+* 1997 male 5-14 years * * * * * * 6
+* 1997 male 5-14 years 1 * * * * * 6
+* 1997 male 5-14 years 0 * * * * * 12
+* 1997 male 5-14 years 2 * * * * * 6
+* 1997 male 5-14 years 3 * * * * * 6
+* 1997 male 5-14 years 5 * * * * * 12
+* 1997 female * * * * * * * 6
+* 1997 female 15-24 years * * * * * * 6
+* 1997 female 15-24 years 0 * * * * * 12
+* 1997 female 35-54 years * * * * * * 6
+* 1997 female 35-54 years 0 * * * * * 6
+* 1997 female 75+ years * * * * * * 12
+* 1997 female 75+ years 1 * * * * * 6
+* 1997 female 75+ years 0 * * * * * 6
+* 1997 female 25-34 years * * * * * * 12
+* 1997 female 25-34 years 0 * * * * * 6
+* 1997 female 55-74 years * * * * * * 6
+* 1997 female 55-74 years 0 * * * * * 12
+* 1997 female 5-14 years * * * * * * 6
+* 1997 female 5-14 years 1 * * * * * 6
+* 1997 female 5-14 years 6 * * * * * 12
+* 1997 female 5-14 years 0 * * * * * 6
+* 1997 female 5-14 years 2 * * * * * 6
+* 1998 * * * * * * * * 12
+* 1998 male * * * * * * * 6
+* 1998 male 15-24 years * * * * * * 6
+* 1998 male 15-24 years 0 * * * * * 12
+* 1998 male 35-54 years * * * * * * 6
+* 1998 male 75+ years * * * * * * 6
+* 1998 male 75+ years 0 * * * * * 298
+* 1998 male 25-34 years * * * * * * 12
+* 1998 male 55-74 years * * * * * * 6
+* 1998 male 55-74 years 0 * * * * * 6
+* 1998 male 5-14 years * * * * * * 12
+* 1998 male 5-14 years 1 * * * * * 6
+* 1998 male 5-14 years 4 * * * * * 6
+* 1998 male 5-14 years 0 * * * * * 12
+* 1998 male 5-14 years 2 * * * * * 6
+* 1998 male 5-14 years 3 * * * * * 6
+* 1998 male 5-14 years 5 * * * * * 12
+* 1998 female * * * * * * * 6
+* 1998 female 15-24 years * * * * * * 6
+* 1998 female 15-24 years 1 * * * * * 12
+* 1998 female 15-24 years 0 * * * * * 6
+* 1998 female 35-54 years * * * * * * 6
+* 1998 female 35-54 years 0 * * * * * 12
+* 1998 female 75+ years * * * * * * 6
+* 1998 female 75+ years 1 * * * * * 6
+* 1998 female 75+ years 0 * * * * * 12
+* 1998 female 75+ years 2 * * * * * 6
+* 1998 female 75+ years 3 * * * * * 6
+* 1998 female 25-34 years * * * * * * 12
+* 1998 female 25-34 years 0 * * * * * 6
+* 1998 female 55-74 years * * * * * * 6
+* 1998 female 55-74 years 0 * * * * * 12
+* 1998 female 5-14 years * * * * * * 6
+* 1998 female 5-14 years 1 * * * * * 6
+* 1998 female 5-14 years 4 * * * * * 12
+* 1998 female 5-14 years 0 * * * * * 6
+* 1998 female 5-14 years 2 * * * * * 6
+* 1998 female 5-14 years 3 * * * * * 12
+* 1999 * * * * * * * * 6
+* 1999 male * * * * * * * 6
+* 1999 male 15-24 years * * * * * * 12
+* 1999 male 15-24 years 0 * * * * * 6
+* 1999 male 35-54 years * * * * * * 6
+* 1999 male 75+ years * * * * * * 12
+* 1999 male 75+ years 0 * * * * * 6
+* 1999 male 75+ years 5 * * * * * 6
+* 1999 male 25-34 years * * * * * * 12
+* 1999 male 25-34 years 0 * * * * * 6
+* 1999 male 55-74 years * * * * * * 6
+* 1999 male 55-74 years 0 * * * * * 12
+* 1999 male 5-14 years * * * * * * 6
+* 1999 male 5-14 years 1 * * * * * 6
+* 1999 male 5-14 years 0 * * * * * 12
+* 1999 male 5-14 years 2 * * * * * 6
+* 1999 male 5-14 years 3 * * * * * 6
+* 1999 female * * * * * * * 12
+* 1999 female 15-24 years * * * * * * 6
+* 1999 female 15-24 years 0 * * * * * 6
+* 1999 female 15-24 years 8 * * * * * 12
